@@ -51,6 +51,7 @@
 		0B789CA62C213BF5009E42C0 /* P4CE */ = {
 			isa = PBXGroup;
 			children = (
+				0B789CB82C213D21009E42C0 /* Views */,
 				0B789CB72C213D10009E42C0 /* ViewModel */,
 				0B789CB52C213CE9009E42C0 /* Models */,
 				0B789CB62C213CF1009E42C0 /* Services */,
@@ -89,6 +90,13 @@
 			children = (
 			);
 			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		0B789CB82C213D21009E42C0 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
